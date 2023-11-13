@@ -10,8 +10,8 @@ ___Response Format:___
 
 ```JSON
 {
-  qr-code-link: "http://qrcoder.ru/code/?%CD%E0%F1%F2%FF%2C+%FF+%F2%E5%E1%FF+%EB%FE%E1%EB%FE%21&6&0",
-  short-link: "http://qrcoder.ru"
+  "qr-code-link": "http://qrcoder.ru/code/?%CD%E0%F1%F2%FF%2C+%FF+%F2%E5%E1%FF+%EB%FE%E1%EB%FE%21&6&0",
+  "short-link": "http://qrcoder.ru"
 }
 ```
 
